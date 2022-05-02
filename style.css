@@ -86,7 +86,7 @@ nav > a:active{
 }
 
 main{
-    min-width: 320px;
+    min-width: 300px;
     max-width: 1160px;
     background-color:#00942a;;
     border-radius: 10px;
@@ -159,7 +159,7 @@ article > h2{
 }
 
 section{
-    max-width: 1160px;
+    max-width: 1100px;
     background-color:#269111;
     margin: auto;
     border-bottom-right-radius: 10px;
@@ -184,7 +184,7 @@ section > ul{
 
 
 header#hed2{
-    max-width: 1200px;
+    max-width: 1100px;
     margin: auto;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
