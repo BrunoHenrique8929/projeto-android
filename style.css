@@ -53,6 +53,7 @@ header#hed1 > p{
     padding-bottom: 10px;
 }
 nav{
+    min-width: 300px;
     font-family:monospace ;
     background-image:linear-gradient(to right, #51c41c, #159105);
     padding-left: 30px;
