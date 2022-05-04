@@ -26,13 +26,15 @@ h1{
 }
 header#hed1{
     background-image: linear-gradient(to right,  #51c41c, #159105);
-    min-height: 150px;
+    max-height: 150px;
     padding-top: 10px;
     text-align: center;
     color: aliceblue;
     font-family: sans-serif;
     display: block;
     margin: 0px;
+   padding-bottom: 20px;
+    
     
     
     
@@ -42,6 +44,7 @@ header#hed1 > h1{
     font-family: idroid, 'Times New Roman', Times, serif;
     font-weight: bolder;
     color: aliceblue;
+    padding-top: 20px;
     
 }
 
@@ -57,10 +60,10 @@ nav{
     font-family:monospace ;
     background-image:linear-gradient(to right, #51c41c, #159105);
     padding-left: 30px;
-   height: 40px;
-   padding-top: 20px;
-   font-size: large;
-   margin-bottom: 20px;
+    height: 40px;
+    font-size: large;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 nav > a{
@@ -135,8 +138,11 @@ footer{
     margin: 0px;
     border-radius: 5px;
     padding-top: 4px;
+    margin-top: 20px;
     
 }
+
+
 
  article > h1{
  
@@ -172,6 +178,7 @@ section{
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
     color: aliceblue;
+    margin-bottom: 13px;
 }
 
 section > ul{
